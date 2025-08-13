@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACDEAD-77A4-437C-90BA-63EE108AA597}|src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.external\\sendgridemail\\sendgridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ACDEAD-77A4-437C-90BA-63EE108AA597}|src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj|solutionrelative:src\\proyecto.booking.external\\sendgridemail\\sendgridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463A79F-3ED5-4BD5-A758-3193417D6208}|src\\Proyecto.Booking.Application\\Proyecto.Booking.Application.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.application\\external\\sendgridemail\\isendgridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463A79F-3ED5-4BD5-A758-3193417D6208}|src\\Proyecto.Booking.Application\\Proyecto.Booking.Application.csproj|solutionrelative:src\\proyecto.booking.application\\external\\sendgridemail\\isendgridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6DE2A5-76CB-40C5-9CCB-1B705DD59E35}|src\\Proyecto.Booking.Api\\Proyecto.Booking.Api.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A6DE2A5-76CB-40C5-9CCB-1B705DD59E35}|src\\Proyecto.Booking.Api\\Proyecto.Booking.Api.csproj|solutionrelative:src\\proyecto.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6DE2A5-76CB-40C5-9CCB-1B705DD59E35}|src\\Proyecto.Booking.Api\\Proyecto.Booking.Api.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6DE2A5-76CB-40C5-9CCB-1B705DD59E35}|src\\Proyecto.Booking.Api\\Proyecto.Booking.Api.csproj|solutionrelative:src\\proyecto.booking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463A79F-3ED5-4BD5-A758-3193417D6208}|src\\Proyecto.Booking.Application\\Proyecto.Booking.Application.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.application\\database\\user\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463A79F-3ED5-4BD5-A758-3193417D6208}|src\\Proyecto.Booking.Application\\Proyecto.Booking.Application.csproj|solutionrelative:src\\proyecto.booking.application\\database\\user\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6DE2A5-76CB-40C5-9CCB-1B705DD59E35}|src\\Proyecto.Booking.Api\\Proyecto.Booking.Api.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6DE2A5-76CB-40C5-9CCB-1B705DD59E35}|src\\Proyecto.Booking.Api\\Proyecto.Booking.Api.csproj|solutionrelative:src\\proyecto.booking.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463A79F-3ED5-4BD5-A758-3193417D6208}|src\\Proyecto.Booking.Application\\Proyecto.Booking.Application.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.application\\database\\user\\queries\\getalluser\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463A79F-3ED5-4BD5-A758-3193417D6208}|src\\Proyecto.Booking.Application\\Proyecto.Booking.Application.csproj|solutionrelative:src\\proyecto.booking.application\\database\\user\\queries\\getalluser\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendGridEmailService.cs",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.External\\SendGridEmail\\SendGridEmailService.cs",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.External\\SendGridEmail\\SendGridEmailService.cs",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.External\\SendGridEmail\\SendGridEmailService.cs",
+              "RelativeToolTip": "src\\Proyecto.Booking.External\\SendGridEmail\\SendGridEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:33:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISendGridEmailService.cs",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\External\\SendGridEmail\\ISendGridEmailService.cs",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.Application\\External\\SendGridEmail\\ISendGridEmailService.cs",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\External\\SendGridEmail\\ISendGridEmailService.cs",
+              "RelativeToolTip": "src\\Proyecto.Booking.Application\\External\\SendGridEmail\\ISendGridEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:33:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.Api\\appsettings.json",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Proyecto.Booking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T13:07:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:43:49.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:43:50.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllUserQuery.cs",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
+              "RelativeToolTip": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:43:50.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:43:50.258Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1004,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

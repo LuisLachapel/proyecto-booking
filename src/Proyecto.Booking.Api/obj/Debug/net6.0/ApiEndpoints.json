@@ -1,0 +1,277 @@
+[
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.BookingController",
+    "Method": "Create",
+    "RelativePath": "api/v1/booking/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Application.DataBase.Bookings.Commands.CreateBooking.CreateBookingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.BookingController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/booking/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.BookingController",
+    "Method": "GetByDocumentNumber",
+    "RelativePath": "api/v1/booking/get-by-documentNumber",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.BookingController",
+    "Method": "GetByType",
+    "RelativePath": "api/v1/booking/get-by-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.CustomerController",
+    "Method": "Create",
+    "RelativePath": "api/v1/customer/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Application.DataBase.Customer.Commands.CreateCustomer.CreateCustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.CustomerController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/customer/delete/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.CustomerController",
+    "Method": "GetAllCustomer",
+    "RelativePath": "api/v1/customer/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.CustomerController",
+    "Method": "GetByDocumentNumber",
+    "RelativePath": "api/v1/customer/get-by-documentNumber/{documentNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.CustomerController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/customer/get-by-id/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.CustomerController",
+    "Method": "Update",
+    "RelativePath": "api/v1/customer/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Application.DataBase.Customer.Commands.UpdateCustomer.UpdateCustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.NotificationController",
+    "Method": "Create",
+    "RelativePath": "api/v1/notification/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Domain.Models.SendGridEmail.SendGridEmailRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/v1/user/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Application.DataBase.User.Commands.CreateUser.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/user/delete/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/user/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/user/get-by-id/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "GetUserByUsernamePassword",
+    "RelativePath": "api/v1/user/get-by-username-password/{UserName}/{Password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "api/v1/user/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Application.DataBase.User.Commands.UpdateUser.UpdateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proyecto.Booking.Api.Controllers.UserController",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/v1/user/update-password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Proyecto.Booking.Application.DataBase.User.Commands.UpdateUserPassword.UpdateUserPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
