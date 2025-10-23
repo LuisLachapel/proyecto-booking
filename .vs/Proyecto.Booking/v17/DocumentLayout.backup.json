@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69ACDEAD-77A4-437C-90BA-63EE108AA597}|src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.external\\proyecto.booking.external.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69ACDEAD-77A4-437C-90BA-63EE108AA597}|src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj|solutionrelative:src\\proyecto.booking.external\\proyecto.booking.external.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69ACDEAD-77A4-437C-90BA-63EE108AA597}|src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj|d:\\cursos\\c sharp\\cursocleanarquitecture\\proyecto.booking\\src\\proyecto.booking.external\\sendgridemail\\sendgridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69ACDEAD-77A4-437C-90BA-63EE108AA597}|src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj|solutionrelative:src\\proyecto.booking.external\\sendgridemail\\sendgridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,6 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Proyecto.Booking.External",
+              "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj",
+              "RelativeDocumentMoniker": "src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj",
+              "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj",
+              "RelativeToolTip": "src\\Proyecto.Booking.External\\Proyecto.Booking.External.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T01:31:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SendGridEmailService.cs",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.External\\SendGridEmail\\SendGridEmailService.cs",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.External\\SendGridEmail\\SendGridEmailService.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ISendGridEmailService.cs",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\External\\SendGridEmail\\ISendGridEmailService.cs",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.Application\\External\\SendGridEmail\\ISendGridEmailService.cs",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.Api\\appsettings.json",
@@ -105,19 +122,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GetUserByIdQuery.cs",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
               "ToolTip": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
               "RelativeToolTip": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:43:49.986Z"
+              "WhenOpened": "2025-04-24T19:43:49.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
@@ -125,11 +143,12 @@
               "RelativeToolTip": "src\\Proyecto.Booking.Api\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:43:50.16Z"
+              "WhenOpened": "2025-04-24T19:43:50.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GetAllUserQuery.cs",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
@@ -137,11 +156,12 @@
               "RelativeToolTip": "src\\Proyecto.Booking.Application\\DataBase\\User\\Queries\\GetAllUser\\GetAllUserQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:43:50.256Z"
+              "WhenOpened": "2025-04-24T19:43:50.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "D:\\Cursos\\C sharp\\CursoCleanArquitecture\\Proyecto.Booking\\src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
@@ -149,7 +169,8 @@
               "RelativeToolTip": "src\\Proyecto.Booking.Api\\Controllers\\NotificationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:43:50.258Z"
+              "WhenOpened": "2025-04-24T19:43:50.258Z",
+              "EditorCaption": ""
             }
           ]
         },

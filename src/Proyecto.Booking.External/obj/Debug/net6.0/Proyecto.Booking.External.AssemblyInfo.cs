@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto.Booking.External")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a9ba8c608c57cbb01d08bf6d13a0c006f5619a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53e42e19fb64ec376372ea14c52378dfb36a8230")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto.Booking.External")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto.Booking.External")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

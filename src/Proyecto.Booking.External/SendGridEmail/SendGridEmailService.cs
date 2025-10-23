@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 using Proyecto.Booking.Application.External.SendGridEmail;
 using Proyecto.Booking.Domain.Models.SendGridEmail;
 using System.Text;
+using DotNetEnv;
 
 namespace Proyecto.Booking.External.SendGridEmail
 {
@@ -15,10 +16,10 @@ namespace Proyecto.Booking.External.SendGridEmail
         }
         public async Task<bool> Execute(SendGridEmailRequestModel model)
         {
-            
+             Env.Load(@"Proyecto.Booking\.env");
             //string apiKey = _configuration.GetConnectionString("SendGridEmailKey");
             string apiUrl = "https://api.sendgrid.com/v3/mail/send";
-            string apiKey = _configuration["Sendgrid"];
+            string apiKey = Environment.GetEnvironmentVariable("sendgrid") ?? "";
 
             HttpClient client = new HttpClient();
             client.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
